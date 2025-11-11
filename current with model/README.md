@@ -1,0 +1,1 @@
+This is the current DAOs along with their Models. Staff has no changes because another groupmate made a new DAO, while the Category will not be used anymore. The model and DAO of StaffTracker are new additions that will be used for report generation.
